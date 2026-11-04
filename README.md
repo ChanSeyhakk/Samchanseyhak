@@ -70,7 +70,7 @@ A full-stack note management application built to organize and manage notes effi
 ## Contact
 
 - GitHub: [ChanSeyhakk](https://github.com/ChanSeyhakk)
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [Chanseyhak Sam](https://www.linkedin.com/in/chanseyhak-sam-98172a3b0/)
 - Email: [chanseyhak007@gmail.com](mailto:chanseyhak007@gmail.com)
 
 ---
