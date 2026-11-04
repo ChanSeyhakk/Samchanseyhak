@@ -2,7 +2,7 @@
 
 Software Engineering Student | Backend Developer
 
-I am a Software Engineering student at BELTEI International University, Cambodia, with a strong interest in backend development, software architecture, and building practical solutions that address real-world problems.
+I am a Software Engineering student at BELTEI International University, Cambodia, with a strong interest in backend development, software architecture, and building practical solutions that address re[...]
 
 I am focused on improving my technical skills through hands-on projects and continuous learning, with the goal of becoming a professional software engineer.
 
@@ -69,9 +69,9 @@ A full-stack note management application built to organize and manage notes effi
 
 ## Contact
 
-- GitHub: [Your GitHub Profile URL]
+- GitHub: [ChanSeyhakk](https://github.com/ChanSeyhakk)
 - LinkedIn: [Your LinkedIn URL]
-- Email: [Your Professional Email]
+- Email: [chanseyhak007@gmail.com](mailto:chanseyhak007@gmail.com)
 
 ---
 
