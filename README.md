@@ -1,79 +1,50 @@
-# Hi, I'm Sam Chanseyhak 👋
+# Sam Chanseyhak
 
-### Software Engineering Student | Aspiring Backend Developer
+Software Engineering Student | Aspiring Backend Developer
 
-I'm a Software Engineering student at BELTEI International University, Cambodia.
+I am a Software Engineering student at BELTEI International University in Cambodia, interested in backend development and building practical software that solves real-world problems. I am developing my skills through hands-on projects and preparing for a software developer internship.
 
-I'm passionate about backend development, software engineering, and building applications that solve real-world problems.
+## About
 
-Currently, I'm focusing on improving my programming skills and building practical projects to prepare for a Software Developer Internship.
+- Studying Software Engineering
+- Interested in backend and full-stack development
+- Currently learning C#, ASP.NET Core, and Entity Framework Core
+- Working with Microsoft SQL Server
+- Building practical software projects
+- Career goal: Become a professional software engineer
 
-## 🚀 About Me
+## Technical Skills
 
-- 🎓 Studying Software Engineering
-- 💻 Interested in Backend & Full-Stack Development
-- 🌱 Currently learning C#, ASP.NET Core, and Entity Framework Core
-- 🗄️ Working with Microsoft SQL Server
-- 🔨 Building real-world software projects
-- 🎯 Goal: Become a Professional Software Engineer
+**Languages:** C#, JavaScript, TypeScript, C++
 
-## 🛠️ Tech Stack
+**Backend:** ASP.NET Core Web API, Entity Framework Core
 
-**Languages**
-- C#
-- JavaScript
-- TypeScript
-- C++
+**Frontend:** HTML, CSS, Vue.js, React, Tailwind CSS
 
-**Backend**
-- ASP.NET Core Web API
-- Entity Framework Core
+**Databases:** Microsoft SQL Server, PostgreSQL, MySQL
 
-**Frontend**
-- HTML
-- CSS
-- Vue.js
-- React
-- Tailwind CSS
+**Tools:** Git, GitHub, Visual Studio, VS Code, Postman
 
-**Database**
-- Microsoft SQL Server
-- PostgreSQL
-- MySQL
-
-**Tools**
-- Git & GitHub
-- Visual Studio
-- VS Code
-- Postman
-
-##  Featured Projects
+## Featured Project
 
 ### Notes Application
-A full-stack note management application.
+A full-stack application for managing notes.
 
 - Frontend: Vue.js, TypeScript, Tailwind CSS
 - Backend: ASP.NET Core Web API
 - Database: Microsoft SQL Server
-- Features: CRUD, Search, and Filtering
+- Features: Create, read, update, and delete notes; search and filtering
 
-🔗 Repository: [Add your repository link here]
+## Currently Learning
 
-##  Currently Learning
+- Advanced C# and ASP.NET Core Web API
+- REST API development
+- Database design
+- Authentication and authorization
+- Data structures and algorithms
 
-- Advanced C#
-- ASP.NET Core Web API
-- REST API Development
-- Database Design
-- Authentication & Authorization
-- Data Structures & Algorithms
+## Contact
 
-##  Connect With Me
-
-- GitHub: [Your GitHub Profile URL]
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Professional Email]
-
----
-
- Thank you for visiting my profile!
+- GitHub: [GitHub Profile](https://github.com/ChanSeyhakk)
+- LinkedIn: [Add your LinkedIn profile]
+- Email: [Add your professional email]
