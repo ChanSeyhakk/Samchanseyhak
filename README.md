@@ -1,6 +1,6 @@
 # Sam Chanseyhak
 
-Software Engineering Student | Backend Developer
+Software Engineering Student | Full-Stack Developer | Backend Developer
 
 I am a Software Engineering student at BELTEI International University, Cambodia, with a strong interest in backend development, software architecture, and building practical solutions that address real-world problems.
 
