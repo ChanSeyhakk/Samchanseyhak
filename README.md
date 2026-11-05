@@ -2,7 +2,7 @@
 
 Software Engineering Student | Backend Developer
 
-I am a Software Engineering student at BELTEI International University, Cambodia, with a strong interest in backend development, software architecture, and building practical solutions that address re[...]
+I am a Software Engineering student at BELTEI International University, Cambodia, with a strong interest in backend development, software architecture, and building practical solutions that address real-world problems.
 
 I am focused on improving my technical skills through hands-on projects and continuous learning, with the goal of becoming a professional software engineer.
 
@@ -53,6 +53,7 @@ I am focused on improving my technical skills through hands-on projects and cont
 ### Notes Application
 A full-stack note management application built to organize and manage notes efficiently.
 
+- **Live application:** [The Note Application](https://chanseyhakk.github.io/notes-application/#/notes)
 - Frontend: Vue.js, TypeScript, Tailwind CSS
 - Backend: ASP.NET Core Web API
 - Database: Microsoft SQL Server
